@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Shmup Player Enemy Sprites_0
+      name: player
       rect:
         serializedVersion: 2
         x: 0
@@ -504,7 +504,7 @@ TextureImporter:
       name: Shmup Player Enemy Sprites_18
       rect:
         serializedVersion: 2
-        x: 66
+        x: 65
         y: 163
         width: 28
         height: 27
@@ -522,7 +522,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shmup Player Enemy Sprites_19
+      name: Enemy
       rect:
         serializedVersion: 2
         x: 99
@@ -1477,7 +1477,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Shmup Player Enemy Sprites_0: 1640661063
+      Enemy: 1798702119
       Shmup Player Enemy Sprites_1: 688689505
       Shmup Player Enemy Sprites_10: -1310744955
       Shmup Player Enemy Sprites_11: -271989029
@@ -1488,7 +1488,6 @@ TextureImporter:
       Shmup Player Enemy Sprites_16: -1379358629
       Shmup Player Enemy Sprites_17: -612584680
       Shmup Player Enemy Sprites_18: 1207014876
-      Shmup Player Enemy Sprites_19: 1798702119
       Shmup Player Enemy Sprites_2: 1429700017
       Shmup Player Enemy Sprites_20: 46333366
       Shmup Player Enemy Sprites_21: 1921369296
@@ -1541,6 +1540,7 @@ TextureImporter:
       Shmup Player Enemy Sprites_7: -1629919160
       Shmup Player Enemy Sprites_8: 742487180
       Shmup Player Enemy Sprites_9: -370100759
+      player: 1640661063
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

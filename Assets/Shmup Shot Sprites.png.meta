@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,364 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Shmup Shot Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 758
+        width: 141
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1b9650053029f46b8f5f0678bd0d9c
+      internalID: 1197671655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shmup Shot Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 695
+        width: 188
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504c22f337e65924bb592f89da2c2f22
+      internalID: 1372766416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shmup Shot Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 693
+        width: 188
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162b405a3d4dc8c408d639ddd0071296
+      internalID: 917538275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shmup Shot Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 693
+        width: 187
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6cb967375417b46ba19111c4319d29
+      internalID: 586851518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 699
+        width: 224
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4d67b95e8fe1349a7ba2cf50b5b6c2
+      internalID: -1971147897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shmup Shot Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 467
+        width: 186
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df85fc97344ba44ab044cdfc96ba2a4
+      internalID: -535522991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shmup Shot Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 456
+        width: 204
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8b2b8e55d0e2d4b887c65b61b9b6ac
+      internalID: 620323498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shmup Shot Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 473
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d031369a651d64aa24daf011e74ae6
+      internalID: 1247329540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shmup Shot Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 472
+        width: 178
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adadef2921cecdf4eb93030fef2c8f2a
+      internalID: 844398936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shmup Shot Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 271
+        width: 130
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abb85eab1c6d5d4a9582d68d0379f25
+      internalID: 115516360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shmup Shot Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 245
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8374d83af6058249aaf40aff701eeab
+      internalID: -1218086521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shmup Shot Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 252
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0401563a487f294c9a9e8571e9dbdc8
+      internalID: -991758018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shmup Shot Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 252
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110b24f3516d4db4db4994c934d58956
+      internalID: -654557486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shmup Shot Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 48
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5d99e535db4c14eac7d186aeb7215c
+      internalID: -1742986496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shmup Shot Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 130
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe042824d7c65f45a096ef5dbf883e9
+      internalID: 2048413439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shmup Shot Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 89
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42b5836ed3e20d49a1a3612a02e6dd6
+      internalID: -1994545525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shmup Shot Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 38
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49fa19df1098004fa2fdc7000e12fac
+      internalID: 871208734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +489,24 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Shmup Shot Sprites_0: 1197671655
+      Shmup Shot Sprites_1: 1372766416
+      Shmup Shot Sprites_10: -1218086521
+      Shmup Shot Sprites_11: -991758018
+      Shmup Shot Sprites_12: -654557486
+      Shmup Shot Sprites_13: -1742986496
+      Shmup Shot Sprites_14: 2048413439
+      Shmup Shot Sprites_15: -1994545525
+      Shmup Shot Sprites_16: 871208734
+      Shmup Shot Sprites_2: 917538275
+      Shmup Shot Sprites_3: 586851518
+      Shmup Shot Sprites_5: -535522991
+      Shmup Shot Sprites_6: 620323498
+      Shmup Shot Sprites_7: 1247329540
+      Shmup Shot Sprites_8: 844398936
+      Shmup Shot Sprites_9: 115516360
+      bullet: -1971147897
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
